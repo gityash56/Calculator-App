@@ -1,6 +1,12 @@
-# calculator app
+## calculator app
 
 A new Flutter project created with FlutLab - https://flutlab.io
+
+## Project Preview 
+
+<img src="https://github.com/gityash56/calculator_app_flutlab/assets/90525149/ef28deff-2b05-403d-a06b-1ddd8a07a633" width="90%" height="35%">
+
+
 
 ## Getting Started
 
