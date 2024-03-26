@@ -2,6 +2,10 @@
 
 A new Flutter project created with FlutLab - https://flutlab.io
 
+### Project Preview 
+
+<img src="https://github.com/gityash56/Calculator-App/assets/90525149/1b32d3b1-2c02-4fe8-8f05-8c6b29fbedb8" width="80%" height="40%">
+
 ## Getting Started
 
 A few resources to get you started if this is your first Flutter project:
